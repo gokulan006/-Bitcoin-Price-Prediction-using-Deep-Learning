@@ -57,7 +57,7 @@ This project focuses on time series forecasting for Bitcoin price prediction usi
 🚀 How to Run the Project
 1.Clone this repository:
 
-git clone https://github.com/your-username/BitPredict.git
+git clone [https://github.com/your-username/BitPredict.git](https://github.com/gokulan006/-Bitcoin-Price-Prediction-using-Deep-Learning.git)
 
 2.Install dependencies:
 
